@@ -1,0 +1,4 @@
+Nodes: [(0.0, 5), (3.0, 5), (5.0, 5)]
+Elements: [{'node1': 0, 'node2': 1, 'A': 6.0, 'E': 1.0, 'sigma_max': 1.0, 'section_type': 'Прямоугольное', 'k': 2.0, 'b': 3.0, 'r': 1.0}, {'node1': 1, 'node2': 2, 'A': 2.0, 'E': 1.0, 'sigma_max': 1.0, 'section_type': 'Прямоугольное', 'k': 1.0, 'b': 2.0, 'r': 1.0}]
+Loads: [{'type': 'Распределенная', 'node1': 0, 'node2': 1, 'F': 3.0}, {'type': 'Сосредоточенная', 'node': 1, 'F': None}, {'type': 'Распределенная', 'node1': 1, 'node2': 2, 'F': 2.0}]
+Boundary Conditions: []
